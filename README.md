@@ -28,4 +28,4 @@ This project was developed as part of the **CodeAlpha** internship program. The 
 ### 🚀 Installation & Usage
 
 1. **Clone the repository:**
-   ```bash git clone https://github.com/ShaDow101H/Web-Scraping.git
+   ```bash git clone https://github.com/ShaDow101H/Web-Scraping.git```
